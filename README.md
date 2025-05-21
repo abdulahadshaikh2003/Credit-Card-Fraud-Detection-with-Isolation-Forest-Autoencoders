@@ -20,10 +20,3 @@ This project detects fraudulent credit card transactions using machine learning 
 2. Install dependencies:
    ```bash
    pip install pandas numpy scikit-learn tensorflow
-
-/Fraud-Detection  
-│── /models  
-│   │── isolation_forest.pkl  
-│   │── autoencoder.h5  
-│── Fraud_Detection.ipynb (with interactive plots)  
-│── README.md (compare both methods' precision/recall)
